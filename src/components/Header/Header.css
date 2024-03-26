@@ -1,0 +1,23 @@
+.navBar {
+    display: flex;
+    justify-content: space-around;
+}
+.navBar{
+    margin-top: 35px;
+}
+
+.center{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.center h4 {
+    margin: 0 15px; 
+}
+.left img{
+    Width:50px;
+    Height:25px;
+}
+.footer{
+    display: flex;
+}
